@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F790953B8DDB3C5BC3BE5FB0328802DDB72B210D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C6C7EC5C80681C837823BE181C02BBABD5A882B8" : 0,
+    "F790953B8DDB3C5BC3BE5FB0328802DDB72B210D" : 0,
+    "00A73175186DF4752F805D83D5FA658A691F01DC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6B048DBA-0BAB-4E92-B706-3D0BB35D4529",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C6C7EC5C80681C837823BE181C02BBABD5A882B8" : "SDK\/",
+    "F790953B8DDB3C5BC3BE5FB0328802DDB72B210D" : "App\/",
+    "00A73175186DF4752F805D83D5FA658A691F01DC" : "Lib\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "App",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/App.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:julianwa\/Lib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00A73175186DF4752F805D83D5FA658A691F01DC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:julianwa\/SDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6C7EC5C80681C837823BE181C02BBABD5A882B8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:julianwa\/App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F790953B8DDB3C5BC3BE5FB0328802DDB72B210D"
+    }
+  ]
+}
