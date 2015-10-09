@@ -1,0 +1,27 @@
+PODS:
+  - App (0.1.0):
+    - Lib
+    - SDK
+  - Lib (0.1.0)
+  - SDK (0.1.0):
+    - Lib
+
+DEPENDENCIES:
+  - App (from `../`)
+  - Lib (from `../../Lib`)
+  - SDK (from `../../SDK`)
+
+EXTERNAL SOURCES:
+  App:
+    :path: ../
+  Lib:
+    :path: ../../Lib
+  SDK:
+    :path: ../../SDK
+
+SPEC CHECKSUMS:
+  App: 120a16aae5a8bbe1e24c8b8cc9877e1d7e8f2c45
+  Lib: 9d4eaa1546555592b8cf9f2724d55a47aadbf2ad
+  SDK: 88817d714aa18ced47e2dd001b5e7d1e7e1710b2
+
+COCOAPODS: 0.38.2

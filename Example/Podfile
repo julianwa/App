@@ -2,10 +2,14 @@ source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
 target 'App_Example', :exclusive => true do
+  pod "Lib", :path => "../../Lib"
+  pod "SDK", :path => "../../SDK"
   pod "App", :path => "../"
 end
 
 target 'App_Tests', :exclusive => true do
+  pod "Lib", :path => "../../Lib"
+  pod "SDK", :path => "../../SDK"
   pod "App", :path => "../"
 
   
